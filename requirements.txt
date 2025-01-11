@@ -3,4 +3,4 @@ scikit-learn
 numpy
 joblib
 pytest
-flask
+flake8
