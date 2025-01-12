@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Personal/BITS/SEM3/MLOPS/Assignment1/mlops-assignment1-group84/mlruns/413537013043635313/f6b658ed93b44176bb19af3fe10ac95f/artifacts
+end_time: 1736702006768
+entry_point_name: ''
+experiment_id: '413537013043635313'
+lifecycle_stage: active
+run_id: f6b658ed93b44176bb19af3fe10ac95f
+run_name: rf-default_100
+run_uuid: f6b658ed93b44176bb19af3fe10ac95f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736702001199
+status: 3
+tags: []
+user_id: Buddanna
