@@ -36,4 +36,4 @@ print("Best Score:", grid_search.best_score_)
 
 # Save the model as joblib (serialized)
 model_path = os.path.join('model', 'hyper_tuned_model.joblib')
-joblib.dump(model, model_path)
+joblib.dump(grid_search, model_path)
